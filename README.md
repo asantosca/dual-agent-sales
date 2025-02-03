@@ -31,7 +31,7 @@ This project simulates a sales call between an AI sales agent (**Sara**) and a c
    ```
 3. Run the script:
    ```
-   python sales_agent.py
+   python abandoned_cart.py
    ```
 
 ## How It Works
